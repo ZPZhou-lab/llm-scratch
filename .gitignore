@@ -1,0 +1,13 @@
+# .gitignore
+# ignore ipynb, __pycache__, and .DS_Store
+# ignore all files in dataset
+*.ipynb
+__pycache__/
+.DS_Store
+dataset/fineweb-edu/
+dataset/hellaswag/
+dataset/wikipedia/
+*.model
+*.vocab
+*.txt
+*.npy
